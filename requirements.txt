@@ -1,1 +1,12 @@
 streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+statsmodels
+scipy
+ydata-profiling
+python-docx
+openai
